@@ -5,52 +5,13 @@
 }
 
 .hero{
-    background-image: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)), url('/Users/nitish/Desktop/SKYMART/Login:Register/Login Asset/login.jpg');
+    background-image: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)), url('/Login Asset/login.jpg');
     background-position: center;
     background-size: cover;
     position: absolute;
     height: 100%;
     width: 100%;
     margin: auto;
-}
-
-.nav-area{
-    height: 60px;
-    background: black;
-    color: #fff;
-    float: right;
-    list-style: none;
-    margin-top: 60px;
-}
-
-.nav-area li{
-    margin-top: 12px;
-    display: inline-block;
-}
-
-.nav-area li a{
-    color: #fff;
-    text-decoration: none;
-    padding: 5px 20px;
-    font-family: 'Courier New', Courier, monospace;
-    font-size: 30px;
-}
-
-.nav-area li a:hover{
-    padding: 20px 20px;
-    background: #fff;
-    color: #333;
-}
-.login{
-    margin-right: 10px;
-    background: skyblue;
-}
-
-.iconn{
-    margin-left: 20px;
-    width: 200px;
-    float: left;
-    height: auto;
 }
 
 .form-box{
